@@ -15,6 +15,6 @@ contract testC {
     }
     
     function get() constant returns (uint) {
-        return v;
+        return value;
     }
 }
